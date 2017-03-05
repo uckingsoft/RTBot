@@ -24,6 +24,7 @@
   "dependencies": {
     "@google/maps": "^0.3.1",
     "dotenv": "^4.0.0",
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "google-distance-matrix": "0.0.3"
   }
 }
