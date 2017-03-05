@@ -1,0 +1,29 @@
+{
+  "name": "rtbot",
+  "version": "1.0.0",
+  "description": "A facebook messenger chat bot that estimate traffic time and suggest alternative root to its connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/uckingsoft/RTBot.git"
+  },
+  "keywords": [
+    "\"Bot\"",
+    "\"Traffic\"",
+    "\"Facebook\""
+  ],
+  "author": "\"Uchenna Kingsley\",\"Obukwelu Ebuka\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uckingsoft/RTBot/issues"
+  },
+  "homepage": "https://github.com/uckingsoft/RTBot#readme",
+  "dependencies": {
+    "@google/maps": "^0.3.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.1"
+  }
+}
